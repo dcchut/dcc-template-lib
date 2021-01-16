@@ -1,7 +1,6 @@
 # dcc-template-lib
 
-[![Build Status](https://travis-ci.org/dcchut/dcc-template-lib.svg?branch=master)](https://travis-ci.org/dcchut/dcc-template-lib)
-[![codecov](https://codecov.io/gh/dcchut/dcc-template-lib/branch/master/graph/badge.svg)](https://codecov.io/gh/dcchut/dcc-template-lib)
+![Build Status](https://github.com/dcchut/dcc-template-lib/workflows/Push%20action/badge.svg?branch=master)
 
 dcc-template-lib is a template for creating Rust library applications.
 
